@@ -2,6 +2,13 @@ where's wally
 =========
 
 Using [Mask-RCNN](https://github.com/matterport/Mask_RCNN) to solve Where's Wally. 
+
+Some results
+
+![](data/val/15.jpg)
+![](results/15.jpg)
+
+
 Refer [alseambusher / deepwaldo ](https://github.com/alseambusher/deepwaldo)
 This allowed me to practice segmentation. Thank you.
 
