@@ -28,7 +28,9 @@ ground truth : json file
 
 ## Running 
 
-Execute waldo_config.py   
+Execute waldo_config.py 
+
+```bash
 NAME = "waldo"   
     IMAGES_PER_GPU = 2   
     NUM_CLASSES = 2   
@@ -37,6 +39,7 @@ NAME = "waldo"
     COCO_WEIGHTS_PATH = os.path.join("models", "mask_rcnn_coco.h5")   
     MODEL_DIR = os.path.join("models", "logs")   
     DATA_DIR = "data"   
+```
 
 ### Training
 
