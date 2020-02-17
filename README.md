@@ -1,4 +1,4 @@
-where's wally
+Find-wally-using-Mask-rcnn
 =========
 
 Using [Mask-RCNN](https://github.com/matterport/Mask_RCNN) to solve Where's Wally. 
@@ -68,4 +68,4 @@ python predict.py /home/njh/anaconda3/envs/tf1.14/lib/python3.6/site-packages/te
 ```
  
 
-# Find-wally-using-Mask-rcnn
+
